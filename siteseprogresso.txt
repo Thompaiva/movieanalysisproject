@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
+para pegar rating por api: https://www.omdbapi.com/

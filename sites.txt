@@ -1,0 +1,14 @@
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
+para pegar rating por api: https://www.omdbapi.com/
+
+apikey omdbapi = 73324f26
+
+950 por dia
+
+
+
+"Title", "Year", "Released", "Genre", "Director", "Actors", "Country", "Ratings", "BoxOffice"
+
+pego:
+23/03/2023 - 950
